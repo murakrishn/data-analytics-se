@@ -1,2 +1,3 @@
 lecturebook/_build
 homework_solutions/*.txt
+.DS_Store

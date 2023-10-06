@@ -1,3 +1,4 @@
 lecturebook/_build
 homework_solutions/*.txt
+homework_solutions/*.csv
 .DS_Store

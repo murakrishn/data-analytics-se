@@ -2,7 +2,3 @@ lecturebook/_build
 homework_solutions/*.txt
 homework_solutions/*.csv
 .DS_Store
-.ipynb_checkpoints
-__pycache__
-*.pyc
-lecturebook/_build

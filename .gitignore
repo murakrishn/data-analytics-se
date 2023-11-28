@@ -6,3 +6,4 @@ homework_solutions/*.csv
 __pycache__
 *.pyc
 *.png
+*.dat
